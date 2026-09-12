@@ -1,0 +1,201 @@
+Student_ID,Student_Name,Gender,Branch,Semester,Attendance_Percent,Internal_Marks,External_Marks,Assignment_Score,Study_Hours_Per_Day,Previous_Sem_Marks,Final_Marks,Grade,Result,Risk_Level
+STU001,Student_001,Female,Computer Science,6,84.7,66.5,79.7,93,2.3,85.6,74.7,B+,Pass,Low
+STU002,Student_002,Male,Electronics,6,97,61.8,74.4,86.8,3.2,88.7,72,B+,Pass,Low
+STU003,Student_003,Male,Information Technology,5,89.6,82,67,75.8,4.2,70.4,74.6,B+,Pass,Low
+STU004,Student_004,Male,Information Technology,3,77.4,61.7,44.7,78.3,2.3,61,57.9,B,Pass,Low
+STU005,Student_005,Male,Computer Science,6,74.8,72.9,74,80.1,3.6,75.5,72.7,B+,Pass,Medium
+STU006,Student_006,Male,Computer Science,6,85.9,66.3,70.9,57.6,1.9,61.9,66.2,B+,Pass,Low
+STU007,Student_007,Male,Computer Science,4,71.4,77.7,71.8,75.5,2.8,94.2,72.2,B+,Pass,Medium
+STU008,Student_008,Female,Electronics,6,96.7,76,50.1,71.2,3.9,71.6,66.4,B+,Pass,Low
+STU009,Student_009,Male,Information Technology,6,91.4,84.5,52.9,68,1.6,65.6,68.2,B+,Pass,Low
+STU010,Student_010,Female,Information Technology,4,78.2,65.9,82.7,75.2,4,72.2,73.1,B+,Pass,Low
+STU011,Student_011,Female,Computer Science,5,68.3,68.8,67.4,96,3.5,53.8,70.6,B+,Pass,Medium
+STU012,Student_012,Female,Electronics,6,92.8,60.3,77.5,84.4,4.2,58.3,72.3,B+,Pass,Low
+STU013,Student_013,Female,Information Technology,4,81.1,66.7,68.4,72.3,3.8,84.4,68.1,B+,Pass,Low
+STU014,Student_014,Male,Computer Science,3,91.9,76.5,68.4,83.7,5.1,62.1,75,A,Pass,Low
+STU015,Student_015,Male,Computer Science,5,69.2,81.1,81.1,92,3.7,57.4,79.3,A,Pass,Medium
+STU016,Student_016,Male,Computer Science,3,77.2,60.9,60.8,87.2,3,76.4,64.9,B,Pass,Low
+STU017,Student_017,Female,Computer Science,3,82,82.4,69.3,78.6,3.6,84.2,74.9,B+,Pass,Low
+STU018,Student_018,Female,Computer Science,4,82.4,88.3,61.5,71.5,4.2,78.6,73.5,B+,Pass,Low
+STU019,Student_019,Female,Computer Science,6,78.4,77,61.9,85,3.6,82,71,B+,Pass,Low
+STU020,Student_020,Female,Computer Science,4,87,94.5,63.7,81.9,3.5,60.9,78.1,A,Pass,Low
+STU021,Student_021,Male,Information Technology,4,73.5,62.7,71.1,87,2.7,52.9,68.6,B+,Pass,Medium
+STU022,Student_022,Male,Computer Science,4,80.9,57.1,61.3,84.4,2.7,88,63.5,B,Pass,Low
+STU023,Student_023,Male,Computer Science,4,83,50.7,85.6,88.5,1.8,66.1,70.2,B+,Pass,Low
+STU024,Student_024,Female,Computer Science,5,86.1,90,55.5,72.6,5.6,67,73.2,B+,Pass,Low
+STU025,Student_025,Male,Computer Science,6,87.7,79.9,65.4,91.2,2,85.9,74.3,B+,Pass,Low
+STU026,Student_026,Male,Information Technology,3,73,71.3,61.8,80,2.7,76.7,67.2,B+,Pass,Medium
+STU027,Student_027,Male,Computer Science,3,69.7,75.4,88.3,98.8,2.6,75.5,80.4,A,Pass,Medium
+STU028,Student_028,Male,Computer Science,6,92.2,58.5,70.8,71.1,4.6,95,67.4,B+,Pass,Low
+STU029,Student_029,Female,Information Technology,3,84.7,98,82.4,95.4,3.1,62.3,87.5,A+,Pass,Low
+STU030,Student_030,Female,Computer Science,6,76,73.6,47.2,80,5,81.1,64.4,B,Pass,Low
+STU031,Student_031,Female,Information Technology,3,94.4,73.3,71.7,71.5,2.7,70.7,72.3,B+,Pass,Low
+STU032,Student_032,Male,Computer Science,4,82.9,80.7,80.5,73.2,3.8,73.2,77.6,A,Pass,Low
+STU033,Student_033,Female,Computer Science,3,91.4,77.8,69.2,74.8,2.5,88.3,73.1,B+,Pass,Low
+STU034,Student_034,Female,Electronics,6,82.5,74.7,82.9,82.2,6.1,76.1,78.8,A,Pass,Low
+STU035,Student_035,Female,Electronics,6,98.5,62.5,60.8,83.2,2.1,76.5,66.5,B+,Pass,Low
+STU036,Student_036,Female,Information Technology,6,96,77.7,87.7,72.3,3.9,82.9,80.3,A,Pass,Low
+STU037,Student_037,Male,Computer Science,6,80,94.6,98,77.8,4.3,65.6,89.2,A+,Pass,Low
+STU038,Student_038,Male,Computer Science,6,89.8,88.1,62.9,99.4,4,59.9,78.7,A,Pass,Low
+STU039,Student_039,Female,Information Technology,5,87.2,91.1,61.8,95.3,3.3,57.5,78.2,A,Pass,Low
+STU040,Student_040,Female,Computer Science,5,92.9,65.9,88.3,82.4,3.3,46.4,77.3,A,Pass,Low
+STU041,Student_041,Male,Computer Science,3,74.3,60.1,90.1,78.4,3.6,94.7,73.6,B+,Pass,Medium
+STU042,Student_042,Female,Computer Science,6,87.5,70.5,60.7,79.2,3.3,56.8,68.2,B+,Pass,Low
+STU043,Student_043,Female,Computer Science,3,90.5,72.7,62.1,84.1,4.7,67.3,71.2,B+,Pass,Low
+STU044,Student_044,Female,Electronics,6,67.9,85.1,64.1,67.8,6.2,66.7,72.3,B+,Pass,Medium
+STU045,Student_045,Female,Computer Science,6,72.5,51.7,49.2,75.4,2.8,73.7,55.3,B,Pass,Medium
+STU046,Student_046,Male,Information Technology,5,65.7,90.4,55.1,61.3,1.9,79.8,67.6,B+,Pass,Medium
+STU047,Student_047,Male,Computer Science,5,79.8,70.1,53.9,82,3.4,80.3,65.4,B+,Pass,Low
+STU048,Student_048,Female,Computer Science,4,87.7,66.9,57.3,84.5,6.6,63,68.2,B+,Pass,Low
+STU049,Student_049,Female,Computer Science,5,94,59.9,67.5,73.2,2.5,68,66.2,B+,Pass,Low
+STU050,Student_050,Male,Computer Science,4,82.6,52.1,71.3,93.7,5.5,73.4,68.3,B+,Pass,Low
+STU051,Student_051,Male,Electronics,4,95,81.9,89.7,65.7,5.5,67,82.2,A,Pass,Low
+STU052,Student_052,Male,Information Technology,4,71,72.9,54,63.4,2.8,89.3,62.4,B,Pass,Medium
+STU053,Student_053,Male,Electronics,4,68.4,56.5,81.8,80.2,4.2,75.9,69.4,B+,Pass,Medium
+STU054,Student_054,Female,Electronics,4,81.6,56.5,65,88.5,5.5,78.8,66.7,B+,Pass,Low
+STU055,Student_055,Female,Information Technology,3,85.1,68,67.3,94.8,3,78,71.6,B+,Pass,Low
+STU056,Student_056,Male,Electronics,5,81.7,92,77.4,73.4,3.3,84.1,80.1,A,Pass,Low
+STU057,Student_057,Female,Computer Science,4,65.5,68.9,52.3,88.8,2.8,72.2,63.7,B,Pass,Medium
+STU058,Student_058,Male,Computer Science,6,81.3,54,73.4,77.6,2.3,54.4,65.5,B+,Pass,Low
+STU059,Student_059,Male,Computer Science,5,71.6,69.1,70.3,76.3,2.7,74.8,68.7,B+,Pass,Medium
+STU060,Student_060,Male,Computer Science,5,87.4,68.7,74.9,86.8,2,62.2,73,B+,Pass,Low
+STU061,Student_061,Female,Computer Science,4,84.9,39.6,72,84.5,3.5,63.7,62,B,Pass,Low
+STU062,Student_062,Male,Computer Science,3,74.5,71.3,98,62.2,2.6,77,77.3,A,Pass,Medium
+STU063,Student_063,Female,Information Technology,4,77.9,69.2,59.1,92.8,3.8,84.9,68.5,B+,Pass,Low
+STU064,Student_064,Male,Computer Science,3,73.5,80.4,60.6,91.8,1.6,70.3,71.3,B+,Pass,Medium
+STU065,Student_065,Male,Computer Science,6,81.5,94.2,59.3,71.7,3.9,73.7,74.6,B+,Pass,Low
+STU066,Student_066,Female,Computer Science,5,89.6,85.5,60.2,82,4.5,90.4,74.5,B+,Pass,Low
+STU067,Student_067,Male,Computer Science,6,74.1,68.8,59.1,82.9,1.1,72.9,65.2,B+,Pass,Medium
+STU068,Student_068,Male,Information Technology,3,86,58.7,84.6,80.6,3.9,95,72.8,B+,Pass,Low
+STU069,Student_069,Female,Computer Science,3,77.8,98,87.9,72.5,5,76.8,86.2,A+,Pass,Low
+STU070,Student_070,Female,Electronics,6,75.7,72.7,60,71.3,2,48.9,65.7,B+,Pass,Low
+STU071,Student_071,Female,Information Technology,3,81.1,72.2,56.3,77.7,5.5,79,67.5,B+,Pass,Low
+STU072,Student_072,Female,Computer Science,6,73.7,71.7,74.6,89.7,4,74.6,74,B+,Pass,Medium
+STU073,Student_073,Female,Computer Science,5,77.6,74.4,60.3,83.4,2.7,85.5,68.8,B+,Pass,Low
+STU074,Student_074,Male,Information Technology,6,72.4,70.3,76.9,74.3,3.4,78.1,71.6,B+,Pass,Medium
+STU075,Student_075,Female,Information Technology,5,97.7,65.1,70.8,85.7,4.2,68.3,72.3,B+,Pass,Low
+STU076,Student_076,Female,Information Technology,6,82.3,65.4,46.8,49.5,3.6,55.3,56.7,B,Pass,Low
+STU077,Student_077,Male,Information Technology,3,76.4,71.6,89.7,89.5,4.1,67.5,79.6,A,Pass,Low
+STU078,Student_078,Female,Computer Science,6,83.7,65.5,93.1,60.6,2.4,59.8,74.2,B+,Pass,Low
+STU079,Student_079,Male,Computer Science,3,81.1,63.4,59.4,74.4,3.7,63,64.1,B,Pass,Low
+STU080,Student_080,Female,Computer Science,6,80.2,73.3,62.6,66.8,1.8,77.1,66.5,B+,Pass,Low
+STU081,Student_081,Female,Electronics,6,86.9,68.9,72,65.1,3.4,90,69.5,B+,Pass,Low
+STU082,Student_082,Male,Information Technology,4,88.1,90,72.7,89.6,2.4,74.7,80.4,A,Pass,Low
+STU083,Student_083,Male,Computer Science,3,77.8,40.2,77.2,73.3,2.6,55.6,61.2,B,Pass,Low
+STU084,Student_084,Male,Computer Science,4,77.4,85.1,96.1,81.5,5,75.3,85.9,A+,Pass,Low
+STU085,Student_085,Male,Computer Science,3,79.8,87,65.5,77.5,4.8,84.4,75.4,A,Pass,Low
+STU086,Student_086,Male,Computer Science,4,63.6,47.1,56.8,82.8,4.2,62.7,57.2,B,Pass,High
+STU087,Student_087,Female,Information Technology,5,69.9,67.9,48.7,78.8,2.2,68.4,60.7,B,Pass,Medium
+STU088,Student_088,Female,Information Technology,6,92.9,67.5,57.8,65.2,3.1,70.2,64.5,B,Pass,Low
+STU089,Student_089,Male,Electronics,3,95.2,55.1,67.5,88,5,60.6,68.1,B+,Pass,Low
+STU090,Student_090,Male,Computer Science,3,80,62.7,93.1,73.1,3.7,77.8,75.3,A,Pass,Low
+STU091,Student_091,Male,Computer Science,6,86.6,58.7,60.8,62.4,6.3,68.5,63,B,Pass,Low
+STU092,Student_092,Female,Information Technology,3,84.5,93,71.1,73.7,4,75,78.9,A,Pass,Low
+STU093,Student_093,Female,Information Technology,3,100,83.2,67.8,93,3.7,59.4,78.6,A,Pass,Low
+STU094,Student_094,Male,Information Technology,4,91,87.3,84.6,86.5,3.1,64.8,83.8,A,Pass,Low
+STU095,Student_095,Female,Information Technology,3,81,80.7,98,74.5,3.7,78.7,83.7,A,Pass,Low
+STU096,Student_096,Male,Computer Science,5,74.4,58.5,60.6,74.5,3.3,65.5,62,B,Pass,Medium
+STU097,Student_097,Male,Computer Science,5,69.1,65.7,61.1,74.8,4.3,90.7,64.7,B,Pass,Medium
+STU098,Student_098,Female,Computer Science,6,83.6,77.9,82.6,98.8,4.6,65.2,81.7,A,Pass,Low
+STU099,Student_099,Male,Computer Science,3,75.9,57.3,77.5,81.8,2.6,72.7,68.3,B+,Pass,Low
+STU100,Student_100,Male,Computer Science,6,70.6,80.6,93.9,82.3,1.9,81.2,81.4,A,Pass,Medium
+STU101,Student_101,Female,Computer Science,5,76.8,69.1,76.2,88.3,1.3,53,72.4,B+,Pass,Low
+STU102,Student_102,Male,Information Technology,3,73.3,67.5,63,80.4,4.1,48.9,67.1,B+,Pass,Medium
+STU103,Student_103,Male,Computer Science,3,95.5,80.5,76.3,75.4,2.2,51.7,76.8,A,Pass,Low
+STU104,Student_104,Male,Computer Science,6,89.1,77.3,83.5,76,1,85.2,77.1,A,Pass,Low
+STU105,Student_105,Female,Electronics,5,81.9,67.7,79.5,77.3,4,63.4,73.3,B+,Pass,Low
+STU106,Student_106,Male,Computer Science,3,93.8,85.9,75.1,77.6,6.5,95,80.6,A,Pass,Low
+STU107,Student_107,Female,Computer Science,6,82.6,59,82.9,85.3,3.5,63.2,72.5,B+,Pass,Low
+STU108,Student_108,Female,Information Technology,5,75.1,79.4,84.4,78.5,4.5,72.2,78.9,A,Pass,Low
+STU109,Student_109,Male,Computer Science,6,94.2,79.1,87.4,85.3,3.6,88.5,82.3,A,Pass,Low
+STU110,Student_110,Female,Computer Science,4,86.3,68.3,77.1,77.2,3.4,94.1,72.8,B+,Pass,Low
+STU111,Student_111,Female,Computer Science,3,73.7,75.9,65.7,78.8,4.6,94.7,71,B+,Pass,Medium
+STU112,Student_112,Male,Computer Science,4,80.5,57,70.1,58,3.2,84.5,62.8,B,Pass,Low
+STU113,Student_113,Male,Electronics,5,75,83.1,84.9,87.2,3.8,82.3,81.3,A,Pass,Low
+STU114,Student_114,Male,Information Technology,4,70.9,69.8,56.6,81.5,3.9,77.1,65.5,B+,Pass,Medium
+STU115,Student_115,Male,Information Technology,4,89.4,65.7,73.2,88,2.7,79.3,72.1,B+,Pass,Low
+STU116,Student_116,Female,Electronics,5,97.3,84.6,62.5,49,4.7,63.4,70.9,B+,Pass,Low
+STU117,Student_117,Female,Information Technology,6,70.8,63.5,68.4,98.9,3.3,60.2,69.7,B+,Pass,Medium
+STU118,Student_118,Female,Computer Science,4,86.5,55.1,85.9,76.6,2.6,70,70.8,B+,Pass,Low
+STU119,Student_119,Male,Electronics,6,76.8,53.3,70.7,89.1,4.1,68,66.5,B+,Pass,Low
+STU120,Student_120,Male,Computer Science,4,78.1,79.3,68.7,67.6,2.4,64.6,71,B+,Pass,Low
+STU121,Student_121,Male,Information Technology,6,77.3,56.6,49,84.1,3.5,78.4,59.1,B,Pass,Low
+STU122,Student_122,Male,Electronics,5,75.1,93.1,78.4,67.5,3.5,81.5,79.4,A,Pass,Low
+STU123,Student_123,Female,Computer Science,4,82.4,47,77,71.8,4.8,71.1,64.8,B,Pass,Low
+STU124,Student_124,Male,Computer Science,5,75.4,92.4,98,97.1,4.1,87.7,90.8,A+,Pass,Low
+STU125,Student_125,Female,Computer Science,4,84.2,74.5,63.7,76.1,3.5,56.3,70,B+,Pass,Low
+STU126,Student_126,Male,Computer Science,5,81.6,70.8,71.1,80.2,4.5,67.7,72.1,B+,Pass,Low
+STU127,Student_127,Female,Information Technology,5,80.1,65.5,71.5,86.7,5.2,61.4,71.6,B+,Pass,Low
+STU128,Student_128,Male,Electronics,4,74.7,76.8,90.1,83,4.2,47.6,80.4,A,Pass,Medium
+STU129,Student_129,Female,Computer Science,4,77.4,71.5,66.7,79.5,3.5,69,69.8,B+,Pass,Low
+STU130,Student_130,Female,Computer Science,4,88,85.2,71.9,81.6,1.9,68.5,77,A,Pass,Low
+STU131,Student_131,Female,Computer Science,3,86,73.4,76.5,100,2.2,88.2,77.2,A,Pass,Low
+STU132,Student_132,Male,Computer Science,6,74.2,73.8,70.6,77.4,3.1,77.6,71.1,B+,Pass,Medium
+STU133,Student_133,Male,Computer Science,3,82.8,67.6,61.7,80,2.8,57.7,66.9,B+,Pass,Low
+STU134,Student_134,Female,Computer Science,3,88,71.3,70.7,88.5,3.3,92.2,73.4,B+,Pass,Low
+STU135,Student_135,Female,Electronics,5,68.6,75.7,83,89.1,3.6,84.7,77.6,A,Pass,Medium
+STU136,Student_136,Male,Computer Science,4,86.3,51.5,53.6,89.9,4.1,77,61,B,Pass,Low
+STU137,Student_137,Female,Computer Science,6,76.7,55.8,69.9,84.4,3.4,67.3,66,B+,Pass,Low
+STU138,Student_138,Male,Information Technology,5,86.6,80.9,58.2,66.6,4.1,58.5,69.4,B+,Pass,Low
+STU139,Student_139,Male,Computer Science,3,75.9,74.1,84.7,94.3,3.6,65.5,79.1,A,Pass,Low
+STU140,Student_140,Female,Electronics,4,67.6,69.8,46.7,66.5,1.1,83.1,58.1,B,Pass,Medium
+STU141,Student_141,Female,Electronics,5,69,72.2,60.2,81,2.4,92.6,66.6,B+,Pass,Medium
+STU142,Student_142,Male,Computer Science,4,82.4,76.2,73.3,70.5,3.3,88.5,72.8,B+,Pass,Low
+STU143,Student_143,Female,Computer Science,5,84.1,65.5,89.9,77.4,2,64.1,75.4,A,Pass,Low
+STU144,Student_144,Female,Computer Science,4,74.8,62.7,67.1,81.3,4.2,56.6,67.2,B+,Pass,Medium
+STU145,Student_145,Male,Computer Science,3,87.1,74.4,60.2,81.2,5.3,71.7,70.6,B+,Pass,Low
+STU146,Student_146,Male,Computer Science,6,68.7,60.3,94.3,82.2,5,48.8,75.8,A,Pass,Medium
+STU147,Student_147,Male,Information Technology,3,81.5,76.9,47.7,94.1,3.2,73.9,67.5,B+,Pass,Low
+STU148,Student_148,Male,Computer Science,6,72.3,51.6,37.2,82.5,5.3,68.2,53.3,C,Pass,Medium
+STU149,Student_149,Female,Computer Science,4,76.8,84.3,74.2,75.6,3.7,64.4,76.3,A,Pass,Low
+STU150,Student_150,Female,Computer Science,5,82.4,77.7,61,87.6,3.1,50.9,71.5,B+,Pass,Low
+STU151,Student_151,Male,Electronics,3,75.1,75.1,53.7,89.9,2.8,76.2,67.5,B+,Pass,Low
+STU152,Student_152,Male,Computer Science,6,78.9,83.8,77.9,65.7,3.1,63.6,75.9,A,Pass,Low
+STU153,Student_153,Female,Computer Science,3,90.1,92,71.4,84,3,56,80.3,A,Pass,Low
+STU154,Student_154,Male,Computer Science,6,77.4,84.2,60.1,85,3.7,35.5,72.8,B+,Pass,Low
+STU155,Student_155,Female,Electronics,3,88.7,49.9,50.1,75,3.7,69.7,57,B,Pass,Low
+STU156,Student_156,Male,Computer Science,6,73,56.6,80.2,91.8,3.5,91.3,70.7,B+,Pass,Medium
+STU157,Student_157,Female,Information Technology,6,86.2,64.5,77.1,76.5,4,89.9,71.7,B+,Pass,Low
+STU158,Student_158,Female,Information Technology,4,93.5,72.3,66.6,79.3,4.9,64.5,72.3,B+,Pass,Low
+STU159,Student_159,Female,Computer Science,6,62.2,78.2,93.9,76.3,4.6,62.8,80.2,A,Pass,High
+STU160,Student_160,Female,Information Technology,4,75.6,63.3,53,78.2,1.7,75.6,60.8,B,Pass,Low
+STU161,Student_161,Female,Computer Science,6,86.6,74.2,46.6,67,1,58,61.5,B,Pass,Low
+STU162,Student_162,Male,Information Technology,5,80.4,62.9,58.3,63.6,4.6,73.6,62.3,B,Pass,Low
+STU163,Student_163,Male,Information Technology,5,85,64.7,67.4,93.9,1.9,79.2,69.8,B+,Pass,Low
+STU164,Student_164,Male,Computer Science,5,77.2,55.1,71.4,69.5,3.2,84.7,64,B,Pass,Low
+STU165,Student_165,Male,Computer Science,6,82.7,60.9,64.6,68.1,2.1,68.8,63.5,B,Pass,Low
+STU166,Student_166,Female,Information Technology,4,80.8,55.8,72.9,56.5,1.3,67.6,62.2,B,Pass,Low
+STU167,Student_167,Female,Computer Science,4,91.3,60.3,50.5,71.6,4.1,59.5,60.7,B,Pass,Low
+STU168,Student_168,Male,Computer Science,6,84,84.6,88.2,64.8,4.4,60.1,80.8,A,Pass,Low
+STU169,Student_169,Female,Computer Science,5,84.7,60.6,66.8,94.4,2.8,67.3,68.6,B+,Pass,Low
+STU170,Student_170,Male,Information Technology,5,78.7,98,83.6,88.1,1,74.4,85.1,A+,Pass,Low
+STU171,Student_171,Female,Information Technology,4,78.1,77.9,72.8,71.1,2.8,81,72.6,B+,Pass,Low
+STU172,Student_172,Male,Computer Science,5,78.5,74.2,74.4,100,4,60.4,76.9,A,Pass,Low
+STU173,Student_173,Female,Computer Science,3,85.2,61.7,76,87.8,1.7,87.9,70.7,B+,Pass,Low
+STU174,Student_174,Male,Computer Science,4,78.6,80.4,74.3,74.8,3.7,66.7,75.1,A,Pass,Low
+STU175,Student_175,Male,Information Technology,5,84.3,65.1,77,53,3.5,69.7,67.9,B+,Pass,Low
+STU176,Student_176,Male,Computer Science,4,98.6,73.5,86.6,100,4.2,61,83,A,Pass,Low
+STU177,Student_177,Female,Information Technology,3,89,98,70.8,64.1,3.6,40.9,79.4,A,Pass,Low
+STU178,Student_178,Male,Computer Science,4,79.4,70.8,77.9,61.5,2.3,80.6,70.4,B+,Pass,Low
+STU179,Student_179,Male,Electronics,4,91.6,85.8,66.7,88.2,4.9,78.8,78.2,A,Pass,Low
+STU180,Student_180,Male,Computer Science,4,78.7,63.6,88.2,100,3.3,66.6,77.6,A,Pass,Low
+STU181,Student_181,Male,Computer Science,4,65.7,71.6,58.5,91.8,3.5,70.8,67.6,B+,Pass,Medium
+STU182,Student_182,Male,Computer Science,3,73.9,93.2,93.2,83.6,2.4,76.2,86.4,A+,Pass,Medium
+STU183,Student_183,Female,Electronics,6,67,64.5,67.4,83.9,3,51.2,67,B+,Pass,Medium
+STU184,Student_184,Male,Electronics,4,79.2,93.7,48,86.5,2.4,63.7,71.7,B+,Pass,Low
+STU185,Student_185,Male,Computer Science,4,82.1,80.5,69.8,85.6,3.3,79.5,75.3,A,Pass,Low
+STU186,Student_186,Male,Information Technology,5,95.4,65.3,58.5,80.8,5.6,54.9,67.8,B+,Pass,Low
+STU187,Student_187,Female,Information Technology,4,84.6,79.6,79.8,79,1.9,73.5,77,A,Pass,Low
+STU188,Student_188,Female,Information Technology,5,80.2,83.7,58.9,77.4,1.6,53.7,70.3,B+,Pass,Low
+STU189,Student_189,Male,Computer Science,6,88.6,79.5,61.8,70.5,5.3,75.6,71.5,B+,Pass,Low
+STU190,Student_190,Male,Computer Science,3,64.3,53.2,41.5,75.2,3.2,69.6,52.5,C,Pass,High
+STU191,Student_191,Female,Computer Science,3,83.9,63.3,61.7,61.1,2.7,50.6,62.7,B,Pass,Low
+STU192,Student_192,Male,Electronics,6,88.2,69,34.1,77,4.7,84,58.8,B,Pass,Low
+STU193,Student_193,Female,Electronics,3,70.2,71.1,45.8,68.1,2.8,61.2,59.5,B,Pass,Medium
+STU194,Student_194,Female,Information Technology,6,91.2,79.4,78.6,67,5.7,60.3,77.3,A,Pass,Low
+STU195,Student_195,Female,Computer Science,6,84.7,74.1,79,79.8,4.3,72.4,76.2,A,Pass,Low
+STU196,Student_196,Female,Computer Science,6,78.7,56,74,91.9,2.9,83.8,68.6,B+,Pass,Low
+STU197,Student_197,Male,Information Technology,3,87.1,76.6,54.5,87.2,6.1,57.8,70.7,B+,Pass,Low
+STU198,Student_198,Female,Electronics,5,100,79.3,67.3,62.3,2.8,70.7,72.1,B+,Pass,Low
+STU199,Student_199,Male,Electronics,6,83.5,78.7,67.9,68.1,4.4,75.1,72.1,B+,Pass,Low
+STU200,Student_200,Male,Information Technology,4,84,85,51.8,87.4,3.9,78.3,71.3,B+,Pass,Low
